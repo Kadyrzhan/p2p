@@ -1,3 +1,3 @@
-print(10 > 9)
-print(10 == 9)
-print(10 < 9)
+def my_func(n):
+    return a = lambda()
+print(my_func(5))
